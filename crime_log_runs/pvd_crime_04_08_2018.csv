@@ -1,0 +1,6 @@
+casenumber,counts,location,month,offense_desc,reported_date,reporting_officer,statute_code,statute_desc,year,offense_cat,lat,lon,city,neighborhood
+2018-00034077,1,57 Babcock St,4,Motor Vehicle Theft,2018-04-06 04:39:00,BMcParlin,11-41-1,LARCENY/O $1500 - AUTO THEFT,2018,property_crime,42.3453046,-71.121665,Brookline,North Brookline
+2018-00034068,1,157 Webster Ave,4,Disorderly Conduct,2018-04-06 02:53:00,JPerez,11-45-1,DISORDERLY CONDUCT,2018,other_crime,42.4020427,-71.02584209999999,Suffolk County,Chelsea
+2018-00034068,1,157 Webster Ave,4,RI Statute Violation,2018-04-06 02:53:00,JPerez,12-29-4,VIOLATION -NO CONTACT ORDER,2018,other_crime,41.7036177,-71.5510146,Rhode Island,Kent County
+2018-00034068,1,157 Webster Ave,4,"Assault, Simple",2018-04-06 02:53:00,JPerez,11-5-3,SIMPLE ASSAULT/BATTERY,2018,other_crime,,,,
+2018-00034052,1,Puritanatanthony ,4,Drug Offenses,2018-04-06 01:35:00,MJennette,21-28-4.01-A2A,MANUFAC/POSS/DELIVER SCH 1/II,2018,other_crime,,,,

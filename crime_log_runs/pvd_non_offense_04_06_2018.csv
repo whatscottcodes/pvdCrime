@@ -1,0 +1,52 @@
+casenumber,counts,location,month,offense_desc,reported_date,reporting_officer,statute_code,statute_desc,year,offense_cat,hour,minute,day,lat,lon,neighborhood
+2018-00034009,0,64 Dartmouth Ave,4,Missing Persons,2018-04-05 22:58:00,Central Station,Not Used,No violations,2018,other_crime,22,58,5,,,
+2018-00034008,0,24 Tappan St,4,Missing Persons,2018-04-05 22:56:00,Central Station,Not Used,No violations,2018,other_crime,22,56,5,,,
+2018-00033994,0,64 Dartmouth Ave,4,Missing Persons,2018-04-05 21:52:00,Central Station,Not Used,No violations,2018,other_crime,21,52,5,,,
+2018-00033949,0,58 Diamond St,4,Request for Assistance,2018-04-05 19:07:00,Central Station,Not Used,No violations,2018,other_crime,19,7,5,,,
+2018-00033916,0,64 Dartmouth Ave,4,Missing Persons,2018-04-05 17:12:00,Central Station,Not Used,No violations,2018,other_crime,17,12,5,,,
+2018-00033897,0,58 Dartmouth Ave,4,Missing Persons,2018-04-05 16:06:00,Central Station,Not Used,No violations,2018,other_crime,16,6,5,,,
+2018-00033883,0,1477 Broad St,4,Lost Article,2018-04-05 15:27:00,Central Station,Not Used,No violations,2018,other_crime,15,27,5,,,
+2018-00033847,0,160 Broad St,4,Disturbance,2018-04-05 13:50:46,TRichards,Not Used,No violations,2018,other_crime,13,50,5,,,
+2018-00033795,0,3 What Cheer Ave,4,Request for Assistance,2018-04-05 11:12:39,JKane,Not Used,No violations,2018,other_crime,11,12,5,,,
+2018-00033667,0,140 New York Ave,4,Assistance Rendered,2018-04-05 00:59:09,PHourahan,Not Used,No violations,2018,other_crime,0,59,5,,,
+2018-00033628,0,139 Camden Ave,4,Medical Aid,2018-04-04 21:39:00,PHourahan,Not Used,No violations,2018,other_crime,21,39,4,,,
+2018-00033608,0,182 Thurbers Ave,4,Request for Assistance,2018-04-04 21:20:00,Central Station,Not Used,No violations,2018,other_crime,21,20,4,,,
+2018-00033570,0,64 Dartmouth Ave,4,Missing Persons,2018-04-04 19:07:00,Central Station,Not Used,No violations,2018,other_crime,19,7,4,,,
+2018-00033548,0,142 Burnett St,4,Juvenile Matter,2018-04-04 18:04:00,TLambert,Not Used,No violations,2018,other_crime,18,4,4,,,
+2018-00033544,0,24 Tappan St,4,Missing Persons,2018-04-04 17:47:00,Central Station,Not Used,No violations,2018,other_crime,17,47,4,,,
+2018-00033527,0,144 Hanover St,4,Assistance Rendered,2018-04-04 16:43:00,LPelaez,Not Used,No violations,2018,other_crime,16,43,4,,,
+2018-00033523,0,1450 Broad St,4,Juvenile Matter,2018-04-04 16:29:12,JCotugno,Not Used,No violations,2018,other_crime,16,29,4,,,
+2018-00033519,0,30 America St,4,Lost Article,2018-04-04 16:27:00,Central Station,Not Used,No violations,2018,other_crime,16,27,4,,,
+2018-00033499,0,136 Hudson St,4,Lost Article,2018-04-04 15:31:00,Central Station,Not Used,No violations,2018,other_crime,15,31,4,,,
+2018-00033320,0,230 S Main St,4,Disturbance,2018-04-04 00:45:00,AMoore,Not Used,No violations,2018,other_crime,0,45,4,,,
+2018-00033300,0,91 Peace St,4,Threats,2018-04-03 23:44:13,LTaveras,Not Used,No violations,2018,other_crime,23,44,3,,,
+2018-00033287,0,48 Wesleyan Ave,4,Request for Assistance,2018-04-03 22:36:25,LTaveras,Not Used,No violations,2018,other_crime,22,36,3,,,
+2018-00033275,0,1880 Westminster St,4,Juvenile Matter,2018-04-03 22:17:00,MClary,Not Used,No violations,2018,other_crime,22,17,3,,,
+2018-00033270,0,1 Park Row West ,4,Request for Assistance,2018-04-03 21:36:00,Central Station,Not Used,No violations,2018,other_crime,21,36,3,,,
+2018-00033205,0,139 Knight St,4,Missing Persons,2018-04-03 17:53:00,Central Station,Not Used,No violations,2018,other_crime,17,53,3,,,
+2018-00033179,0,25 Dorrance St,4,Suspicious Person,2018-04-03 16:18:30,RPiccirillo,Not Used,No violations,2018,other_crime,16,18,3,,,
+2018-00033174,0,211 Veazie St,4,Juvenile Matter,2018-04-03 15:22:00,KMelfi,Not Used,No violations,2018,other_crime,15,22,3,,,
+2018-00033071,0,14 Alverson Ave,4,Request for Assistance,2018-04-03 10:16:50,MChasse,Not Used,No violations,2018,other_crime,10,16,3,,,
+2018-00033069,0,744 Branch Ave,4,Suspicious Person,2018-04-03 10:12:00,EChin,Not Used,No violations,2018,other_crime,10,12,3,,,
+2018-00032939,0,334 Elmwood Ave,4,Request for Assistance,2018-04-02 21:42:00,ASchneider,Not Used,No violations,2018,other_crime,21,42,2,,,
+2018-00032935,0,325 Washington St,4,Article Found,2018-04-02 21:38:00,Central Station,Not Used,No violations,2018,other_crime,21,38,2,,,
+2018-00032928,0,380 Hope St,4,Missing Persons,2018-04-02 21:17:00,Central Station,Not Used,No violations,2018,other_crime,21,17,2,,,
+2018-00032879,0,380 Hope St,4,Missing Persons,2018-04-02 18:30:00,Central Station,Not Used,No violations,2018,other_crime,18,30,2,,,
+2018-00032869,0,384 Potters Ave,4,Lost Article,2018-04-02 17:42:00,Central Station,Not Used,No violations,2018,other_crime,17,42,2,,,
+2018-00032861,0,457 Benefit St,4,Medical Aid,2018-04-02 17:28:00,MCastillo,Not Used,No violations,2018,other_crime,17,28,2,,,
+2018-00032856,0,Blackstone St At Friendship St,4,Lost Article,2018-04-02 17:15:00,Central Station,Not Used,No violations,2018,other_crime,17,15,2,,,
+2018-00032844,0,30 Sackett St,4,Lost Article,2018-04-02 16:38:00,Central Station,Not Used,No violations,2018,other_crime,16,38,2,,,
+2018-00032828,0,70 Stanwood St,4,Request for Assistance,2018-04-02 16:09:00,Central Station,Not Used,No violations,2018,other_crime,16,9,2,,,
+2018-00032825,0,54 Puritan St,4,Lost Article,2018-04-02 16:04:00,Central Station,Not Used,No violations,2018,other_crime,16,4,2,,,
+2018-00032816,0,256 Hartford Ave,4,Lost Article,2018-04-02 15:52:00,Central Station,Not Used,No violations,2018,other_crime,15,52,2,,,
+2018-00032814,0,58 Dartmouth Ave,4,Missing Persons,2018-04-02 15:51:00,Central Station,Not Used,No violations,2018,other_crime,15,51,2,,,
+2018-00032765,0,152 Springfield St,4,Suspicious Person,2018-04-02 13:12:00,PSalmons,Not Used,No violations,2018,other_crime,13,12,2,,,
+2018-00032690,0,3 Linwood Ave,4,Juvenile Matter,2018-04-02 07:15:00,ECraven,Not Used,No violations,2018,other_crime,7,15,2,41.798978,-71.40794509999999,Lower South Providence
+2018-00032687,0,600 Mt Pleasant Ave,4,Medical Aid,2018-04-02 06:46:00,JAndrade,Not Used,No violations,2018,other_crime,6,46,2,33.9392986,-83.3802118,Athens
+2018-00032632,0,76 Althea St,4,Request for Assistance,2018-04-02 00:19:00,JCascione,Not Used,No violations,2018,other_crime,0,19,2,41.7880226,-71.40288559999999,Washington Park
+2018-00032615,0,26 Trever Ave ,4,Missing Persons,2018-04-01 22:41:00,Central Station,Not Used,No violations,2018,other_crime,22,41,1,40.7207365,-74.00845559999999,Manhattan
+2018-00032607,0,325 Washington St,4,Article Found,2018-04-01 22:07:00,Central Station,Not Used,No violations,2018,other_crime,22,7,1,43.4370729,-71.655701,Franklin
+2018-00032581,0,136 Knight St,4,Missing Persons,2018-04-01 20:29:00,Central Station,Not Used,No violations,2018,other_crime,20,29,1,41.8211908,-71.4308794,Ward 13
+2018-00032559,0,138 Knight St,4,Missing Persons,2018-04-01 19:04:00,Central Station,Not Used,No violations,2018,other_crime,19,4,1,41.8509644,-71.43387059999999,Wanskuck
+2018-00032445,0,45 Blackstone Blvd,4,Suspicious Person,2018-04-01 09:53:47,DHull,Not Used,No violations,2018,other_crime,9,53,1,42.9024,-78.8705978,Bryant
+2018-00032436,0,228 Washington Ave,4,Article Found,2018-04-01 08:25:27,NDarling,Not Used,No violations,2018,other_crime,8,25,1,40.90299590000001,-74.55781080000001,Dover
